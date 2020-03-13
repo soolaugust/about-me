@@ -10,7 +10,14 @@
 
 ### 联邦学习
 
-[《数据价值-联邦学习篇》：初识](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483826&idx=1&sn=a960ae255c89acb4da9d0a20cff0494f&chksm=cf68c626f81f4f30fd2ae07b690e4a47e285742ebdbd58fc764422ead1a9b7f7bcbda35f88b7&scene=126&sessionid=1584078320&key=69ea9b9548bd5827b5f7f092703bcd6d2ca6e13f07ac9c7c87bb640e145de670a6e837e003a52bc4d72ba36acc57ca878f3b3939b5a1e48b8b456c74410cb453cc06231b54d7d45ab62d3999ebce62ca&ascene=1&uin=NTkyMjg4NQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AaG4ed14oXjrCW%2BuBDlBtHw%3D&pass_ticket=rEafHBKmH0rswXoQJSytpaTooB4yYI2ROKiMEFdOqug%3D)
+#### 公众号文章(欢迎关注)
+
+* [《数据价值-联邦学习篇》：初识](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483826&idx=1&sn=a960ae255c89acb4da9d0a20cff0494f&chksm=cf68c626f81f4f30fd2ae07b690e4a47e285742ebdbd58fc764422ead1a9b7f7bcbda35f88b7&scene=126&sessionid=1584078320&key=69ea9b9548bd5827b5f7f092703bcd6d2ca6e13f07ac9c7c87bb640e145de670a6e837e003a52bc4d72ba36acc57ca878f3b3939b5a1e48b8b456c74410cb453cc06231b54d7d45ab62d3999ebce62ca&ascene=1&uin=NTkyMjg4NQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AaG4ed14oXjrCW%2BuBDlBtHw%3D&pass_ticket=rEafHBKmH0rswXoQJSytpaTooB4yYI2ROKiMEFdOqug%3D)
+
+#### 论文
+
+* 开启联邦学习的开始：[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+* Google联邦学习框架TFF(TensorFlow Federated)设计：[Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 
 # 加入
 
