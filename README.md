@@ -13,11 +13,17 @@
 #### 公众号文章(欢迎关注)
 
 * [《数据价值-联邦学习篇》：初识](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483826&idx=1&sn=a960ae255c89acb4da9d0a20cff0494f&chksm=cf68c626f81f4f30fd2ae07b690e4a47e285742ebdbd58fc764422ead1a9b7f7bcbda35f88b7&scene=126&sessionid=1584078320&key=69ea9b9548bd5827b5f7f092703bcd6d2ca6e13f07ac9c7c87bb640e145de670a6e837e003a52bc4d72ba36acc57ca878f3b3939b5a1e48b8b456c74410cb453cc06231b54d7d45ab62d3999ebce62ca&ascene=1&uin=NTkyMjg4NQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AaG4ed14oXjrCW%2BuBDlBtHw%3D&pass_ticket=rEafHBKmH0rswXoQJSytpaTooB4yYI2ROKiMEFdOqug%3D)
+* [《数据价值-联邦学习篇》：SecureBoost算法](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483839&idx=1&sn=929916df3e4be49b75a7ea94951058bc&chksm=cf68c62bf81f4f3d6d0d279c62669b9282dfecf7b331b79b98de751e3aa14adb4cd120c63649&scene=126&sessionid=1584603030&key=7b1999f4bcc79e70eb9c138fc6366e110263d301b00bfbdfa283c4a53011226755d3370a1a4f18fa7edc169818a1668c3fcaa4b70874da178396c9366ef80c682f34dbc18432c0f82f7e8d5654b978a7&ascene=1&uin=NTkyMjg4NQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AScXUkUTY%2F0XHou8oNlvZY0%3D&pass_ticket=zjsmxPDmoj82W8TfSFOI4R9QDSWtbZiwvClNRvlOsNw%3D)
 
 #### 论文
 
 * 开启联邦学习的开始：[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
 * Google联邦学习框架TFF(TensorFlow Federated)设计：[Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
+* SecureBoost算法：[SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/abs/1901.08755)
+
+#### 推荐阅读
+
+[联邦学习相关资料](https://github.com/FederatedAI/FATE/wiki/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
 
 # 加入
 
