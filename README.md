@@ -27,6 +27,24 @@
 
 [联邦学习相关资料](https://github.com/FederatedAI/FATE/wiki/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
 
+
+
+
+
+
+
+
+### 密码学
+
+#### 公众号文章(欢迎关注)
+
+* [《数据价值-密码学篇》：初识](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483865&idx=1&sn=6eba445eb8841dbde9203613826a382f&chksm=cf68c64df81f4f5b57ece0dfc80202a3d4888a71eb24fa133f36a1f4b3ca07d7f81c8027ae79&token=288688570&lang=zh_CN#rd)
+
+#### 推荐阅读
+
+* [2012年Winter School of Crytograhy课程--格密码学](https://www.ichunqiu.com/course/50433)
+* [CTF 密码学文档](https://wiki.x10sec.org/crypto/introduction/)
+
 # 加入
 
 我再Github上会根据学习主题建一些组织，一来方便查找，而来方便归类。你可以在我的[个人主页](https://github.com/soolaugust)上查看，这些大部分都是为了学习而设立的，欢迎感兴趣或者想要一起维护的人加入，任何人想要加入只需要发送邮件到**soolaugust@gmail**,输入自己想要加入的组织和自己的Github账号，并简单描述一下自己的理由就可以了。
