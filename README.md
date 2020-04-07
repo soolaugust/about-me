@@ -40,6 +40,8 @@
 
 * [《数据价值-密码学篇》：初识](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483865&idx=1&sn=6eba445eb8841dbde9203613826a382f&chksm=cf68c64df81f4f5b57ece0dfc80202a3d4888a71eb24fa133f36a1f4b3ca07d7f81c8027ae79&token=288688570&lang=zh_CN#rd)
 
+* [《数据价值-密码学篇》：同态加密](https://mp.weixin.qq.com/s?__biz=Mzg4MTIwMTkxNQ==&mid=2247483877&idx=1&sn=1dbcd19848fbea65c823b5a3bb9db0a1&chksm=cf68c671f81f4f67b45b0b7a27f55b25e711571d25ea34e72b119e5938ad218f783341bd0ab8&scene=126&sessionid=1586224763&key=557e86c703422ecf84caf997b591c93cc06eb963b02c7f1ceacc71609c8abdfbb7f1bff96f35041f0047c71fe0ab6907f939321cabf56ee9cc29894d73f156c3076a9d0960a914fbfea14f8593ddcdcb&ascene=1&uin=NTkyMjg4NQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AVYCCfcSNgAIgImgJf7iPMw%3D&pass_ticket=L1Ww0CxxeSgTxpskCp8TMGIIMy0YY7g588hsgps%2FIYk%3D)
+
 #### 推荐阅读
 
 * [2012年Winter School of Crytograhy课程--格密码学](https://www.ichunqiu.com/course/50433)
